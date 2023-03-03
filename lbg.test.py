@@ -1,7 +1,7 @@
 """
 Sample unit test "testcase" for LBG API functionality
 Tests key functions and API routes in isolation from client-side user interface
-hello matt
+
 For full list of assertions available: https://docs.python.org/3.8/library/unittest.html
 """
 
